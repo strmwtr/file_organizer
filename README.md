@@ -1,17 +1,17 @@
 # file_organizer
 
 Objective:
-Tool created to help organize photos taken during field assessments. 
+Tool created to help organize files. Created with photos in mind, but any stand alone file could be reorganized with this script. 
 
 Overview:
-When performing field work it is commom to take photos of a site, then put them in a directory back at the office. 
-This script helps organize these files. The example below will help illustrate what this script does.
-
+directory_creator.py creates directory tree based on list of names and location provided by user. </n>
+User then manually places files into appropriate folders created by directory_creator.py. </n>
+file_organizer.py then renames each file in the folder with the structure <directory_name>__<counter>.<extension>
 
 
 Requirements:
 Python 2.7
-Written to refect windows file system 
+Windows OS 
 
 Instructions:
 1: Download repo via github
