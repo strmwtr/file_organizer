@@ -54,12 +54,16 @@ Instructions:
  
  Output of directory_creator.py
 
+---
+
 
 8. Drag and drop files into newly created folders
 
  ![file_organizer](https://github.com/strmwtr/file_organizer/blob/master/readme/pre_file_organizer_setup.PNG)
  
  My file structure after dragging and dropping the photos in appropriate folder
+
+---
 
 
 9. Run file_organizer.py . If you have not closed the command prompt from the above steps, simply run it from that window. If you have closed it, open the command line again and cd back to the folder file_organizer, then run the script.
