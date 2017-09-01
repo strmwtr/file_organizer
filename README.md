@@ -6,14 +6,17 @@ Tool created to help organize files. Created with photos in mind, but any stand 
 Overview:
 directory_creator.py creates directory tree based on list of names and location provided by user. </n>
 User then manually places files into appropriate folders created by directory_creator.py. </n>
-file_organizer.py then renames each file in the folder with the structure <directory_name>__<counter>.<extension>
+file_organizer.py then renames each file in the folder with the structure [directory_name]__[counter].[extension]
 
 
 Requirements:
+
 Python 2.7
+
 Windows OS 
 
 Instructions:
+
 1: Download repo via github
 
 2: CD to repo
